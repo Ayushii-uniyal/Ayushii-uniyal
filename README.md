@@ -1,4 +1,15 @@
-## Hello there.. :)👋
+# Hi there! 👋 I'm Ayushi Uniyal
+
+I’m currently a **3rd-year B.Tech student** at **Graphic Era Hill University (GEHU)**, pursuing a degree in Computer Science. I’m passionate about **Web Development** and **Artificial Intelligence**, and I’m always excited to learn new technologies.
+
+🔭 I’m currently working on:
+- **Machine Learning** projects (like mobile price prediction and sentiment analysis)
+- Exploring **Deep Learning** (CNN, RNN) for image and text processing
+- **Web Development** using **HTML, CSS, JavaScript**, and exploring frameworks like **React** and **Node.js**.
+  
+🌱 I'm currently learning more about **AI**, **Data Science**, and **Full-stack Web Development**.
+
+💬 Feel free to reach out if you want to collaborate on projects or have any questions related to tech!
 
 ## **🚀 Tech Stack**
 ### Languages & Tools
