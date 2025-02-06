@@ -4,9 +4,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushii-uniyal&layout=compact&theme=dark)
 
-Tech Stack 
-![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-![C++](https://img.shields.io/badge/C++-Advanced-blue)
+Tech Stack-
+
+
 
 
 
