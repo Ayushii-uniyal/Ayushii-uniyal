@@ -13,11 +13,24 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushii-uniyal&show_icons=true&theme=dark)
+### **Tools & IDEs**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/512px-Google_Colaboratory_SVG_Logo.svg.png" alt="Google Colab" width="50"/>
+</p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushii-uniyal&layout=compact&theme=dark)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushii-uniyal&show_icons=true&theme=dark)
+
+## 🌐 **Socials**
+<p align="left">
+  <a href="https://www.linkedin.com/in/ayushi-uniyal-84435225b/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50"/>
+  </a>
+</p>
 
 
 
