@@ -2,7 +2,7 @@
 
 ![221352975-94759904-aa4c-4032-a8ab-b546efb9c478](https://github.com/user-attachments/assets/ebafb048-464b-4325-ad50-da3f58477826)
 
-I’m currently a **3rd-year B.Tech student** at **Graphic Era Hill University (GEHU)**, pursuing a degree in Computer Science. I’m passionate about **Web Development** and **Artificial Intelligence**, and I’m always excited to learn new technologies.
+I’m currently a **final year B.Tech student** at **Graphic Era Hill University (GEHU)**, pursuing a degree in Computer Science. I’m passionate about **Web Development** and **Artificial Intelligence**, and I’m always excited to learn new technologies.
 
 🔭 I’m currently working on:
 - **Machine Learning** projects (like mobile price prediction and sentiment analysis)
